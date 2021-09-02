@@ -4,7 +4,7 @@
   "description": "Bot that connected to Facebook Messenger help you to manage members, entertain in any groups!",
   "main": "main/index.js",
   "engines" : {
-    "node" : ">=0.12" 
+    "node" : ">=14.17.0" 
   },
   "scripts": {
     "start": "node main",
