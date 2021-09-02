@@ -35,7 +35,7 @@ module.exports = {
 		if (text != 0) {
 			fca.sendMessage(
 				`Tôi có góp ý: ${text}\nTin nhắn này được gửi bởi id: ${message.threadID}`,
-				'100007723935647'
+				'100011475782121'
 			);
 			reply(`Đã gửi tin nhắn góp ý tới nhà phát triển với nội dung: ${text}`);
 		} else {
