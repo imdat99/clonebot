@@ -17,8 +17,6 @@ main/deploy/plugins/*
 main/deploy/updates/*
 !main/deploy/updates/README.txt
 
-node_modules/
-
 packagehash.txt
 
 test.js
